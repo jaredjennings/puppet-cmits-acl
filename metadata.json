@@ -1,12 +1,12 @@
 {
-  "name": "jaredjennings/acl",
+  "name": "jaredjennings/no_ext_acl",
   "version": "0.1.0",
   "author": "Jared Jennings",
-  "summary": "Provide the functionality of the acl module from CMITS (boilerplate)",
+  "summary": "Remove extended access control lists from files and directories on Linux or Mac",
   "license": "Apache-2.0",
-  "source": "https://github.com/jaredjennings/puppet-cmits-acl",
-  "project_page": "https://github.com/jaredjennings/puppet-cmits-acl",
-  "issues_url": "https://github.com/jaredjennings/puppet-cmits-acl/issues",
+  "source": "https://github.com/jaredjennings/puppet-cmits-no_ext_acl",
+  "project_page": "https://github.com/jaredjennings/puppet-cmits-no_ext_acl",
+  "issues_url": "https://github.com/jaredjennings/puppet-cmits-no_ext_acl/issues",
   "dependencies": []
 }
 
