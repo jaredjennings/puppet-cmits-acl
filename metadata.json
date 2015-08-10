@@ -1,6 +1,6 @@
 {
   "name": "jaredjennings-no_ext_acl",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "author": "Jared Jennings",
   "summary": "Remove extended access control lists from files and directories on Linux or Mac",
   "license": "Apache-2.0",
